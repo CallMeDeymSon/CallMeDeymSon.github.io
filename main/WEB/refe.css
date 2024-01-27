@@ -1,0 +1,30 @@
+@media (max-width: 480px) {
+  #nav-bar a {
+    position: relative;
+    left: 20%;
+    top: 2vh;
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0 50px;
+    text-align: right;
+    text-transform: uppercase;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  /* Tablet styles (768 x 1024) */
+  /* Adjust styles for medium-sized screens */
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* Laptop styles (1366 x 768) */
+  /* Adjust styles for larger screens */
+}
+
+@media (min-width: 1024px) {
+  /* Desktop styles (1920 x 1080) */
+  /* Adjust styles for extra-large screens */
+}
